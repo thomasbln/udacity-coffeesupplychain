@@ -1,0 +1,22 @@
+{
+  "name": "udacity procect 3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thomas R.",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "2.4.0"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.34",
+    "truffle-assertions": "^0.9.2",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "dotenv": "^16.0.3"
+  }
+}
