@@ -43,7 +43,7 @@ npm view web3 version
 ```
 ## Activity Diagram
 
-![truffle test](uml/Activity.png)
+![truffle test](uml/ActivityDiagram.png)
 
 ## Sequence Diagram
 
