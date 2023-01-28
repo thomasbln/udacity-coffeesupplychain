@@ -2,23 +2,23 @@
 
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
 
-## Rinkeby contract address
+## Rinkeby goerli address
 
-https://rinkeby.etherscan.io/address/0x18e4ee67c92a22f4cc0071aa7892bea158c38b4f
+https://goerli.etherscan.io/address/0x262D57e9F55f12C0Ed9ff0be72d8a7BAd3c82987
 
 ```
 Deploying 'SupplyChain'
-   transaction hash:    0xbf063869b2b7e968285e0b7a0cf699c41c429ace9bf3c3ad7d80905f9e8bbc77
-   Blocks: 0            Seconds: 12
-   contract address:    0x2ba67cAdEA0Fee648dC3C01452a86fdB932a0DEd
-   block number:        6426526
-   block timestamp:     1588553322
-   account:             0x860aFa5Ca9282fF145846DF9ED68C0fbda3ACa4A
-   balance:             10.405828787
-   gas used:            3063480 (0x2ebeb8)
-   gas price:           10 gwei
+   transaction hash:    0x91b1bdae72116b8d14253b5ec59ee2d7e0cb7c32287bdff12ed20878ada23bd5
+   Blocks: 2            Seconds: 20
+   contract address:    0x262D57e9F55f12C0Ed9ff0be72d8a7BAd3c82987
+   block number:        8391655
+   block timestamp:     1674912276
+   account:             0x299207fB116711cBe890cabE69369d24d621e843
+   balance:             0.491506310600335288
+   gas used:            3442288 (0x348670)
+   gas price:           0.000000036 gwei
    value sent:          0 ETH
-   total cost:          0.0306348 ETH
+   total cost:          0.000000000123922368 ETH
 ```
 
 ## Node Version
