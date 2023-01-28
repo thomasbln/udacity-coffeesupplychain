@@ -53,9 +53,10 @@ npm view web3 version
 
 ![truffle test](uml/StateDiagram.png)
 
-## Data Modeling Diagram
+## Class Diagram
 
-![truffle test](uml/DataModelDiagram.png)
+![truffle test](uml/ClassDiagram.png)
+
 
 The DApp User Interface when running looks like...
 
